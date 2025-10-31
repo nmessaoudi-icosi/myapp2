@@ -1,5 +1,5 @@
 def greet(name: str = "world") -> str:
-    return f"Hello from MyApp2, {name}!"
+    return f"Hello from MyApp2 Dr Nabil Messaoudi, {name}!"
 
 if __name__ == "__main__":
     # Entrée minimaliste : python app.py [nom]
