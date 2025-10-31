@@ -242,3 +242,4 @@ Ensuite :
 ---
 
 Si tu veux, dis-moi ton **nom d’utilisateur GitHub** et je te renvoie les **2 commandes exactes** `git remote add origin …` + `git push` prêtes à coller. Je peux aussi ajouter au workflow CI le **push automatique d’image Docker vers GHCR**.
+" "    # petite modif neutre
